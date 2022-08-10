@@ -1,0 +1,53 @@
+2022-08-10 14:20:04.541  INFO 26056 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-10 14:20:04.687  INFO 26056 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-10 14:20:04.909  INFO 26056 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-10 14:20:05.389  INFO 26056 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-10 14:20:05.396  INFO 26056 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-10 14:20:05.819  WARN 26056 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-10 14:20:06.250  INFO 26056 --- [main] com.countryservice.demo.LoggingTest      : Started LoggingTest in 3.33 seconds (JVM running for 4.299)
+2022-08-10 14:20:06.440  INFO 26056 --- [main] com.countryservice.demo.LoggingTest      : Logging Info
+2022-08-10 14:20:06.440  WARN 26056 --- [main] com.countryservice.demo.LoggingTest      : Logging Warning
+2022-08-10 14:20:06.440 ERROR 26056 --- [main] com.countryservice.demo.LoggingTest      : Logging Error
+2022-08-10 14:20:06.455  INFO 26056 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-10 14:20:06.457  INFO 26056 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-08-10 14:20:06.469  INFO 26056 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-08-10 14:22:07.853  INFO 22720 --- [main] com.countryservice.demo.LoggingTest      : Starting LoggingTest using Java 11.0.16 on PLZNB6694610440 with PID 22720 (started by c020822004 in D:\Intellij\SpringBootCountryServiceProject)
+2022-08-10 14:22:07.855  INFO 22720 --- [main] com.countryservice.demo.LoggingTest      : No active profile set, falling back to 1 default profile: "default"
+2022-08-10 14:22:08.486  INFO 22720 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-10 14:22:08.522  INFO 22720 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 28 ms. Found 1 JPA repository interfaces.
+2022-08-10 14:22:08.864  INFO 22720 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-08-10 14:22:09.048  INFO 22720 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-08-10 14:22:09.161  INFO 22720 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-10 14:22:09.204  INFO 22720 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-10 14:22:09.338  INFO 22720 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-10 14:22:09.573  INFO 22720 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-10 14:22:10.039  INFO 22720 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-10 14:22:10.046  INFO 22720 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-10 14:22:10.411  WARN 22720 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-10 14:22:10.862  INFO 22720 --- [main] com.countryservice.demo.LoggingTest      : Started LoggingTest in 3.375 seconds (JVM running for 4.382)
+2022-08-10 14:22:11.049  INFO 22720 --- [main] com.countryservice.demo.LoggingTest      : Logging Info
+2022-08-10 14:22:11.049  WARN 22720 --- [main] com.countryservice.demo.LoggingTest      : Logging Warning
+2022-08-10 14:22:11.049 ERROR 22720 --- [main] com.countryservice.demo.LoggingTest      : Logging Error
+2022-08-10 14:22:11.064  INFO 22720 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-10 14:22:11.066  INFO 22720 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-08-10 14:22:11.080  INFO 22720 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-08-10 14:29:42.644  INFO 4380 --- [main] com.countryservice.demo.LoggingTest      : Starting LoggingTest using Java 11.0.16 on PLZNB6694610440 with PID 4380 (started by c020822004 in D:\Intellij\SpringBootCountryServiceProject)
+2022-08-10 14:29:42.645  INFO 4380 --- [main] com.countryservice.demo.LoggingTest      : No active profile set, falling back to 1 default profile: "default"
+2022-08-10 14:29:43.156  INFO 4380 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-10 14:29:43.197  INFO 4380 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interfaces.
+2022-08-10 14:29:43.536  INFO 4380 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-08-10 14:29:43.703  INFO 4380 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-08-10 14:29:43.826  INFO 4380 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-10 14:29:43.866  INFO 4380 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-10 14:29:43.999  INFO 4380 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-10 14:29:44.236  INFO 4380 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-10 14:29:44.664  INFO 4380 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-10 14:29:44.680  INFO 4380 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-10 14:29:45.084  WARN 4380 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-10 14:29:45.533  INFO 4380 --- [main] com.countryservice.demo.LoggingTest      : Started LoggingTest in 3.23 seconds (JVM running for 4.205)
+2022-08-10 14:29:45.728  INFO 4380 --- [main] com.countryservice.demo.LoggingTest      : Logging Info
+2022-08-10 14:29:45.728  WARN 4380 --- [main] com.countryservice.demo.LoggingTest      : Logging Warning
+2022-08-10 14:29:45.728 ERROR 4380 --- [main] com.countryservice.demo.LoggingTest      : Logging Error
+2022-08-10 14:29:45.744  INFO 4380 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-10 14:29:45.748  INFO 4380 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-08-10 14:29:45.759  INFO 4380 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
