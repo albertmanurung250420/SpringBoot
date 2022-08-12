@@ -1,0 +1,95 @@
+2022-08-12 11:04:43.837  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 18
+2022-08-12 11:04:43.842  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 19
+2022-08-12 11:04:43.842  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 20
+2022-08-12 11:04:43.842  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 21
+2022-08-12 11:04:43.843  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 22
+2022-08-12 11:04:43.843  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 23
+2022-08-12 11:04:43.843  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 24
+2022-08-12 11:04:43.844  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 25
+2022-08-12 11:04:43.844  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 26
+2022-08-12 11:04:43.845  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 27
+2022-08-12 11:04:43.845  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 28
+2022-08-12 11:04:43.845  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 29
+2022-08-12 11:04:43.847  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 30
+2022-08-12 11:04:43.847  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 31
+2022-08-12 11:04:43.847  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 32
+2022-08-12 11:04:43.847  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 33
+2022-08-12 11:04:43.847  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 34
+2022-08-12 11:04:43.847  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 35
+2022-08-12 11:04:43.848  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 36
+2022-08-12 11:04:43.849  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 37
+2022-08-12 11:04:43.849  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 38
+2022-08-12 11:04:43.850  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 39
+2022-08-12 11:04:43.850  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 40
+2022-08-12 11:04:43.850  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 41
+2022-08-12 11:04:43.851  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 42
+2022-08-12 11:04:43.851  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 43
+2022-08-12 11:04:43.852  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 44
+2022-08-12 11:04:43.852  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 45
+2022-08-12 11:04:43.853  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 46
+2022-08-12 11:04:43.854  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 47
+2022-08-12 11:04:43.854  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 48
+2022-08-12 11:04:43.854  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 49
+2022-08-12 11:04:43.854  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 50
+2022-08-12 11:04:43.854  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 51
+2022-08-12 11:04:43.855  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 52
+2022-08-12 11:04:43.855  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 53
+2022-08-12 11:04:43.855  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 54
+2022-08-12 11:04:43.856  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 55
+2022-08-12 11:04:43.856  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 56
+2022-08-12 11:04:43.857  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 57
+2022-08-12 11:04:43.857  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 58
+2022-08-12 11:04:43.858  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 59
+2022-08-12 11:04:43.858  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 60
+2022-08-12 11:04:43.859  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 61
+2022-08-12 11:04:43.859  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 62
+2022-08-12 11:04:43.859  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 63
+2022-08-12 11:04:43.860  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 64
+2022-08-12 11:04:43.860  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 65
+2022-08-12 11:04:43.860  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 66
+2022-08-12 11:04:43.860  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 67
+2022-08-12 11:04:43.861  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 68
+2022-08-12 11:04:43.861  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 69
+2022-08-12 11:04:43.861  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 70
+2022-08-12 11:04:43.861  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 71
+2022-08-12 11:04:43.862  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 72
+2022-08-12 11:04:43.862  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 73
+2022-08-12 11:04:43.862  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 74
+2022-08-12 11:04:43.863  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 75
+2022-08-12 11:04:43.863  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 76
+2022-08-12 11:04:43.863  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 77
+2022-08-12 11:04:43.864  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 78
+2022-08-12 11:04:43.864  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 79
+2022-08-12 11:04:43.864  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 80
+2022-08-12 11:04:43.865  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 81
+2022-08-12 11:04:43.866  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 82
+2022-08-12 11:04:43.866  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 83
+2022-08-12 11:04:43.867  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 84
+2022-08-12 11:04:43.867  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 85
+2022-08-12 11:04:43.868  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 86
+2022-08-12 11:04:43.869  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 87
+2022-08-12 11:04:43.870  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 88
+2022-08-12 11:04:43.870  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 89
+2022-08-12 11:04:43.870  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 90
+2022-08-12 11:04:43.871  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 91
+2022-08-12 11:04:43.872  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 92
+2022-08-12 11:04:43.872  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 93
+2022-08-12 11:04:43.872  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 94
+2022-08-12 11:04:43.872  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 95
+2022-08-12 11:04:43.873  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 96
+2022-08-12 11:04:43.873  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 97
+2022-08-12 11:04:43.873  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 98
+2022-08-12 11:04:43.874  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return -> 99
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->0
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->1
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->2
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->3
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->4
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->5
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->6
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->7
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->8
+2022-08-12 11:04:43.878  INFO 21304 --- [main] com.countryservice.demo.LoggingTest      : Return ->9
+2022-08-12 11:04:43.887  INFO 21304 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-12 11:04:43.889  INFO 21304 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-08-12 11:04:43.898  INFO 21304 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
