@@ -40,14 +40,14 @@ public class LoggingTest {
 
 //    Logging Test Add
     @Test
-    void testLongLogging(){
+    void test_getAllCountry(){
         for(i=0; i<10; i++){
             List<Country> mycountries=new ArrayList<Country>();
             mycountries.add(new Country(1, "Indonesia", "Medan"));
             mycountries.add(new Country(2, "Thailand", "Bangkok"));
 
             when(countryrep.findAll()).thenReturn(mycountries);
-            log.warn("Return ->{}", i);
+            log.info("Return ->{}", i);
             assertEquals(2, countryService.getAllCountries().size());
         }
     }
@@ -61,7 +61,7 @@ public class LoggingTest {
             int countryID = 1;
 
             when(countryrep.findAll()).thenReturn(mycountries); //Mocking
-            log.warn("Return -> {}", i);
+            log.info("Return -> {}", i);
             assertEquals(countryID, countryService.getCountrybyID(countryID).getId());
         }
     }
@@ -75,7 +75,7 @@ public class LoggingTest {
             String  countryName = "Indonesia";
 
             when(countryrep.findAll()).thenReturn(mycountries); //Mocking
-            log.warn("Return -> {}", i);
+            log.info("Return -> {}", i);
             assertEquals(countryName, countryService.getCountrybyName(countryName).getCountryName());
         }
     }
@@ -86,7 +86,7 @@ public class LoggingTest {
             Country country = new Country(8, "Germany", "Berlin");
             when(countryrep.save(country)).thenReturn(country);
             assertEquals(country, countryService.addCountry(country));
-            log.warn("Return -> {}", i);
+            log.info("Return -> {}", i);
         }
     }
 
@@ -96,7 +96,7 @@ public class LoggingTest {
             Country country = new Country(8, "Belanda","Amsterdam");
             when(countryrep.save(country)).thenReturn(country);
             assertEquals(country, countryService.updateCountry(country));
-            log.warn("Return -> {}", i);
+            log.info("Return -> {}", i);
         }
     }
 
@@ -106,7 +106,7 @@ public class LoggingTest {
             Country country = new Country(8, "Belanda", "Amsterdam");
             countryService.deleteCountry(country);
             verify(countryrep,times(1)).delete(country);
-            log.warn("Return -> {}", i);
+            log.info("Return -> {}", i);
         }
     }
 }
